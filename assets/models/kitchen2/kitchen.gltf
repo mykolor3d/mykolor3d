@@ -20608,8 +20608,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "_leaf_01.png",
-            "uri" : "_leaf_01.png"
+            "name" : "leaf_01.png",
+            "uri" : "leaf_01.png"
         }
     ],
     "accessors" : [
